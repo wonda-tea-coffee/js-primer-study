@@ -1,0 +1,16 @@
+{
+  "name": "nodecli",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "marked": "14.0"
+  }
+}
